@@ -4,4 +4,4 @@ let object = {
 
 object['two'] = 2;
 
-module.exports = object;
+export default object;
